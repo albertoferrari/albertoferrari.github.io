@@ -1,12 +1,10 @@
-theme: jekyll-theme-modernist
-
 #
 # This file contains configuration flags to customize your site
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
-
+name: Alberto Ferrari
+theme: jekyll-theme-modernist
 # Short bio or description (displayed in the header)
 description: Web Developer from Somewhere
 
