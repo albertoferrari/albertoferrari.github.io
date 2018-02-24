@@ -23,6 +23,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
+![alt text](albertoferrari.github.io/AF.jpg "Alberto Ferrari")
+
 [Link](url) and ![Image](src)
 ```
 
