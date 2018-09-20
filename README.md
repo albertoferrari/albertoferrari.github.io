@@ -1,5 +1,6 @@
 ![alt text](https://albertoferrari.github.io/albertoferrari.github.io/AF.jpg "Alberto Ferrari")
 
+- [Informatica e Laboratorio di Programmazione](https://albertoferrari.github.io/info_lab){:target="_blank"}
 - [Programmazione di Applicazioni software](https://albertoferrari.github.io/pasw){:target="_blank"}
 - [Generic programming](https://albertoferrari.github.io/generics){:target="_blank"}
 - [Object Oriented Puzzle Programming](http://www.ce.unipr.it/~aferrari/oopp/){:target="_blank"}
