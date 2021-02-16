@@ -4,7 +4,7 @@
 - [Programmazione di Applicazioni software](https://albertoferrari.github.io/pasw){:target="_blank"}
 - [Generic programming](https://albertoferrari.github.io/generics){:target="_blank"}
 - [Object Oriented Programming - Java](https://albertoferrari.github.io/oop-Java){:target="_blank"}
-- [Object Oriented Programming - Python](https://albertoferrari.github.io/oop_Python){:target="_blank"}
+- [Object Oriented Programming - Python](https://albertoferrari.github.io/oop-Python){:target="_blank"}
 - [Database - SQL](https://albertoferrari.github.io/DB-SQL){:target="_blank"}
 - [Python for Data Analytics](https://albertoferrari.github.io/PythonDataAnalytics){:target="_blank"}
 - [Crittografia](https://albertoferrari.github.io/crittografia){:target="_blank"}
