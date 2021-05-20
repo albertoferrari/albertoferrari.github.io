@@ -1,4 +1,4 @@
-![alt text](https://albertoferrari.github.io/AF.jpg "Alberto Ferrari")
+![Alberto Ferrari](https://albertoferrari.github.io/AF.jpg "Alberto Ferrari")
 
 - [Informatica e Laboratorio di Programmazione](https://albertoferrari.github.io/info_lab){:target="_blank"}
 - [Programmazione di Applicazioni software](https://albertoferrari.github.io/pasw){:target="_blank"}
