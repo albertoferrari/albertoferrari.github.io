@@ -7,6 +7,7 @@
 - [Object Oriented Programming - Python](https://albertoferrari.github.io/oop-Python){:target="_blank"}
 - [Database - SQL](https://albertoferrari.github.io/DB-SQL){:target="_blank"}
 - [Python for Data Analytics](https://albertoferrari.github.io/PythonDataAnalytics){:target="_blank"}
+- [Big Data](https://albertoferrari.github.io/bigdata){:target="_blank"}
 - [Crittografia](https://albertoferrari.github.io/crittografia){:target="_blank"}
 - [Object Oriented Puzzle Programming](http://www.ce.unipr.it/~aferrari/oopp/){:target="_blank"}
 - [codOWood](http://www.ce.unipr.it/~aferrari/codowood){:target="_blank"}
