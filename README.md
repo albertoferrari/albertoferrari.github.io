@@ -1,5 +1,6 @@
 ![Alberto Ferrari](https://albertoferrari.github.io/AF.jpg "Alberto Ferrari")
 
+- [Introduzione all'informatica con Python]([https://albertoferrari.github.io/info_lab](https://www.mheducation.it/introduzione-all-informatica-con-python-9788838613586-italy)){:target="_blank"}
 - [Informatica e Laboratorio di Programmazione](https://albertoferrari.github.io/info_lab){:target="_blank"}
 - [Programmazione di Applicazioni software](https://albertoferrari.github.io/pasw){:target="_blank"}
 - [Generic programming](https://albertoferrari.github.io/generics){:target="_blank"}
