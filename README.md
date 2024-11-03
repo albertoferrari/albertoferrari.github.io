@@ -9,6 +9,7 @@
 - [Database - SQL](https://albertoferrari.github.io/DB-SQL){:target="_blank"}
 - [Python for Data Analytics](https://albertoferrari.github.io/PythonDataAnalytics){:target="_blank"}
 - [Big Data](https://albertoferrari.github.io/bigdata){:target="_blank"}
+- [Analisi dei dati digitali](https://albertoferrari.github.io/analisi_dati){:target="_blank"}
 - [Crittografia](https://albertoferrari.github.io/crittografia){:target="_blank"}
 - [Object Oriented Puzzle Programming](http://www.ce.unipr.it/~aferrari/oopp/){:target="_blank"}
 - [codOWood](http://www.ce.unipr.it/~aferrari/codowood){:target="_blank"}
